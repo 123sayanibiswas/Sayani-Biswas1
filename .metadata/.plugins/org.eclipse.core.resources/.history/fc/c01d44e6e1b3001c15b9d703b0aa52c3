@@ -1,0 +1,11 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Car {
+	String name;
+	int price;
+	String color;;
+	Map<String, Car> carMap=new HashMap<String, Car>();
+	
+
+}

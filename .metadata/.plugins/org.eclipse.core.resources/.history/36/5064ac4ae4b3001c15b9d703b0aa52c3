@@ -1,0 +1,31 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Car {
+	public static void main(String[]args) {
+	String name;
+	int price;
+	String color;
+	}
+
+
+	private String color;
+	private String name;
+	private int price;
+
+
+	public Car() {
+		// TODO Auto-generated constructor stub
+	}
+	Car(String name, int price, String color)
+	{
+		this.name=name;
+		this.price=price;
+		this.color=color;
+	}
+
+
+	Map<String, Car> carMap=new HashMap<String, Car>();
+	
+
+}

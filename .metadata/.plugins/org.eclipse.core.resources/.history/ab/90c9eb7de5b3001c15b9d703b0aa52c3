@@ -1,0 +1,18 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Car {
+	public static void main(String[]args) {
+	String name;
+	int price;
+	String color;
+	
+	System.out.println("Enter the name");
+	System.out.println("Enter the price");
+	System.out.println("Enter the color");
+
+
+}
+	
+
+}

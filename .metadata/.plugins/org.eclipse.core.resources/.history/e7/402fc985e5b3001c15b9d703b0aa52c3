@@ -1,0 +1,22 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Car {
+	public Car(String name, int price, String color) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[]args) {
+	String name;
+	int price;
+	String color;
+	
+	System.out.println("Enter the name");
+	System.out.println("Enter the price");
+	System.out.println("Enter the color");
+
+
+}
+	
+
+}

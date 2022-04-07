@@ -1,0 +1,2 @@
+module Program1 {
+}

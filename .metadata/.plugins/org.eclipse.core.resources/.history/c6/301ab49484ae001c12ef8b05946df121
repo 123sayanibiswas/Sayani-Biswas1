@@ -1,0 +1,26 @@
+package largenumber;
+
+import java.util.Scanner;
+
+public class largenumber {
+	public static void main(String[] args)
+	{
+		int n1=2,n2=3,n3=4;
+	Scanner sc = new Scanner(System.in);
+	int n1 = sc.nextInt();
+	int n2 = sc.nextInt();
+	int n3 = sc.nextInt();
+	if(n1>n2)
+	{
+	System.out.println("n1 is largest number");
+	}else if(n2<n3)
+	{
+	System.out.println("n2 is smallest number");
+	}else if(n3>n1)
+	{
+	System.out.println("n3 is the largest number");
+	}
+	}
+	}
+
+

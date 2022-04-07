@@ -1,0 +1,11 @@
+import java.util.Arrays;
+
+public class Shorting {
+	public static void main(String[]args) {
+		int[]arr= {20,56,71,105,200,350,600};
+		Arrays.sort(arr);
+		System.out.println ("Modified arr[] :%s");
+		
+	}
+
+}
